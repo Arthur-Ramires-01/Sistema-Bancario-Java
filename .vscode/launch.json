@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "SistemaBancario.view.Menu",
+            "classPaths": [
+                "${workspaceFolder}/lib/sqlite-jdbc-3.53.2.0.jar",
+                "${workspaceFolder}"
+            ]
+        }
+    ]
+}
